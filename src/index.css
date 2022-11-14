@@ -41,6 +41,9 @@
   .bg-theme-cart {
     @apply bg-gradient-to-b from-slate-900 to-gray-900 shadow-sm shadow-gray-900;
   }
+  .bg-theme-cart-red {
+    @apply bg-gradient-to-b from-red-500 to-red-500 shadow-sm shadow-red-400;
+  }
 
   /* Clip-path */
   .clip-path {
